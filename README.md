@@ -1,1 +1,5 @@
+<:php
+ 
 t.me/Hajiyor
+
+?>
