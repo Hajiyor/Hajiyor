@@ -1,71 +1,81 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F9F5F&center=true&vCenter=true&width=435&lines=سلام+👋;به+پروفایل+من+خوش+آمدید;من+یک+توسعه‌دهنده+هستم" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=10B981&center=true&vCenter=true&width=500&lines=Hajiyor+اینجاست+👋;توسعه‌دهنده+با+هوش+مصنوعی;ساخت+ربات+تلگرامی+با+AI;بازی‌کن+و+استریمر;حتی+توی+جنگ+کد+نمی‌ایستد" />
 </div>
 
-# 👨‍💻 درباره من
+# 💀 هاجیور | Hajiyor
 
-سلام! من **[نام شما]** هستم. به دنیای کد و نوآوری علاقه دارم و همیشه در حال یادگیری چیزهای جدیدم.
-
-- 🌱 در حال یادگیری: **React، Next.js، Python**
-- 🔭 روی پروژه: **یک اپلیکیشن مدیریت تسک**
-- 💬 از من بپرسید درباره: **JavaScript، CSS، Git**
-- 📫 راه ارتباطی: `ایمیل شما`
-- ⚡ حقیقت جالب: قهوه را به چای ترجیح می‌دهم ☕
+> اون که با هوش مصنوعی کد می‌زنه، تلگرام رو اداره می‌کنه، توی جنگ هم استریم می‌کنه!
 
 ---
 
-## 🛠️ مهارت‌ها
+## 🧠 درباره من
 
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  
-</div>
+سلام! من **Hajiyor** هستم. نه، برنامه‌نویس کلاسیک نیستم — اما با **هوش مصنوعی** هر برنامه‌ای که بخوام می‌سازم. از ربات تلگرامی گرفته تا ابزارهای شخصی. عاشق یادگیری، بازی و پول درآوردن از راه هوشمندانه هستم.
 
----
-
-## 📊 آمار گیت‌هاب
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2F9F5F&title_color=2F9F5F&text_color=FFFFFF" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=2F9F5F&ring=2F9F5F&fire=2F9F5F&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" />
-  
-</div>
+- 🤖 **تخصص اصلی:** ساخت ربات تلگرامی با کمک هوش مصنوعی
+- 💸 **بلدم چطور پول دربیارم** — بازاریابی، دیجیتال مارکتینگ، ایده‌های خلاقانه
+- 🧠 **برنامه‌نویسی:** بلدم تا حدی پایتون، بقیه رو AI برام می‌نویسه 😎
+- 🎮 **گیمر حرفه‌ای** + **استریمر**
+- 📡 **فعال توی تلگرام** — کانال، گروه، ربات، هر چی
+- 📍 **ایران | توی جنگ** — با این حال کد زدن و استریم رو ول نمی‌کنم
+- 🔌 **شغلم (باور کنید):** شلغم پیمانکار **فیبرنوری FTTH** — یعنی اینترنت واقعی می‌کشم به خونه‌ها 😂
 
 ---
 
-## 🏆 دستاوردها
+## 🛠️ چطور کار می‌کنم؟
 
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10)
-  
-</div>
+| ابزار | کاربرد |
+|------|--------|
+| ChatGPT / Claude | کد نویسی سریع ربات تلگرامی |
+| Python | زبان پایه‌ای که تا حدی بلدم |
+| BotFather + Telethon | ساخت و مدیریت ربات‌های تلگرام |
+| OBS | استریم کردن |
+| فیبر نوری FTTH | کار روزانه‌ام |
 
 ---
 
-## 📫 راه‌های ارتباطی
+## 🧩 پروژه‌هایی که باهاشون کار می‌کنم
+
+- ربات‌های تلگرام (فوروارد خودکار، مدیریت گروه، ضد اسپم، دانلودر و...)
+- خودکارسازی کارهای روزمره با هوش مصنوعی
+- استریم گیمینگ (با حرفای روز توی لایو)
+- آموزش غیرمستقیم کسب درآمد از تلگرام
+
+---
+
+## 📊 وضعیت گیت‌هاب (بذار خالی نباشه 😃)
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=F43F5E&title_color=10B981" width="45%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=10B981&ring=F43F5E&fire=F43F5E" width="45%" />
   
 </div>
 
 ---
 
+## 📡 جایی که می‌تونید پیدا کنیدم
+
 <div align="center">
   
-  **⭐ از اینکه به پروفایل من سر زدید ممنونم! ⭐**
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hajiyor)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/yourchannel)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hajiyor)
   
-  *با عشق و کد ساخته شده ❤️*
+</div>
+
+---
+
+## ⚡ یه حرف راست
+
+> «من با هوش مصنوعی کد می‌زنم، با فیبر نوری اینترنت می‌کشم، توی جنگ هم لایو می‌گیرم. بهم بگو چه آرزویی داری؟»
+
+---
+
+<div align="center">
+  
+  **🔥 از اینکه خوندی ممنون — فعلاً بزن به استریم و ربات‌سازی 🔥**
   
 </div>
