@@ -8,7 +8,7 @@ Know a bit of Python. Know how to make money online (no, I won't share the secre
 
 ## 📊 GitHub stats
 
-![Hajiyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajiyor_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2F9F5F&title_color=2F9F5F&text_color=FFFFFF)
+![Hajiyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajiyor&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=2F9F5F&title_color=2F9F5F&text_color=FFFFFF)
 
 ---
 
