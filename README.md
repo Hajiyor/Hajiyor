@@ -1,9 +1,9 @@
-# Hello there! Welcome to my GitHub profile! 👋🐊
+<h1 align="center"> Hello there! Welcome to my GitHub profile! 👋</h1>
 
-I'm **Hajiyor** (a.k.a. Crocodile).  
-I don't call myself a programmer — I let AI do the heavy lifting while I focus on Telegram bots, gaming, and streaming.  
-Know a bit of Python. Know how to make money online (no, I won't share the secret 😄).  
-
+###  🐊About Me:
+- 🌟 I don't call myself a programmer — I let AI do the heavy lifting
+- 🌱 Know a bit of Python (Know how to make money)
+- 📫 How to reach me: [Telegram DM](https://t.me/Hajiyor)
 ---
 
 ## 📊 GitHub stats
@@ -13,7 +13,9 @@ Know a bit of Python. Know how to make money online (no, I won't share the secre
 ---
 
 ## 📡 Where I hang out
+<div align="center"> <a href="https://t.me/dothaj" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://x.com/hajiyor" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" /> </a> <a href="https://youtube.com/@Hajiyor" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> </div>
 
-- [Telegram](https://t.me/hajiyor)  
-- [YouTube](https://youtube.com/@hajiyor)  
-- [Twitch](https://twitch.tv/hajiyor) (sometimes)
+<div align="center">
+  
+
+
